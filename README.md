@@ -9,18 +9,13 @@ Book Archive API adalah sistem API sederhana berbasis Node.js dan Express untuk 
 - Menambahkan buku baru (`POST /books`)
 - Memperbarui data buku (`PUT /books/:id`)
 - Menghapus buku (`DELETE /books/:id`)
-
-## Tech Stack
-- Node.js
-- Express.js
-- JSON sebagai database
-
+  
 ## Instalasi
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/Findney/bookhub-api.git
-   cd bookhub-api
+   git clone https://github.com/Nabilmln/tugas3-lab-ppl.git
+   cd tugas3-lab-ppl
    ```
 
 2. Install dependencies:
