@@ -14,8 +14,8 @@ Book Archive API adalah sistem API sederhana berbasis Node.js dan Express untuk 
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/Nabilmln/tugas3-lab-ppl.git
-   cd tugas3-lab-ppl
+   git clone https://github.com/Nabilmln/tugas4-lab-ppl.git
+   cd tugas4-lab-ppl
    ```
 
 2. Install dependencies:
